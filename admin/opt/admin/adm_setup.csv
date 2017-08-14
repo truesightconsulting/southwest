@@ -1,0 +1,17 @@
+attribute,value
+update,n
+client_name,Southwest
+r_path,/home/rstudio/nviz/southwest/
+general_message,
+calendar,2
+pace,100
+goal_check,1
+bdgt_dim,"chan2_id,chan3_id,chan1_id,dma1_id,dma2_id"
+event_dim,"chan2_id,chan3_id,chan1_id,dma1_id,dma2_id,sales1_id"
+dim_chan,"chan3_id,chan2_id,chan1_id"
+dim_dma,"dma1_id,dma2_id"
+dim_sales,sales1_id
+dim_salchan,salchan1_id
+formula,ninah
+beta,beta
+is_mta,0
